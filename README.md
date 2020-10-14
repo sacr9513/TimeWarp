@@ -1,5 +1,15 @@
 # TimeWarp
 
+#Final Notes
+- added glitch feature that spawns monsters from other time periods after you pick up 4 fuel pick-ups. I wanted to create a different trigger for the time warp, but I think this is simple enough to implement in the time limit. 
+- created UI
+-added second level
+
+
+#PlayTest Notes
+Playtesting brought up a few things that I want to either change or keep the same in my game. I had planned on changing the 'ricochet' features of the game as I had it, as the bullets kind of wander around the screen for a while, rather than seeming like bullets. But talking to my playtester, he thought that leaving the mechanic as is was more fun, as trying to get the bullets as they bumped around the screen was kind of fun and interesting. So I ended up keeping that the same instead of changing it. My playtester also mentioned that maybe a smaller level might be fun, with things all getting on top of your and making this frantic kind of environment, so for level two  I decided to add more dividing walls to make the space seemed a little more enclosed. We also talked about getting the artifacts working better and adding a lot more to the UI so that the player can know how much health etc. is left. I also discussed my future plans for the game, adding a 'glitch' feature that when it's triggered monsters from other time periods start to spawn. 
+
+
 #Control
 
 The first game I'm looking at in the Shake that Button arcade is The Conduit. The Conduit is an interactive game that uses project, custom controllers and costume to play out a simulation of the future. The Conduit is a social game that many people can interact with at the same time to play cooperatively. The game is started by a group of people called the Visoneers. They pick certain values, that the citizens must live within. The visioners will then clain taxes and provide social services. People use a tablet with stylus type input to control their avatars on the projection. There are also people acting as the Press and the Others who are controlling the weather. This game is very much a commetary on life and culture and encourages people to work together, both within the groups and within the whole simulation. This game is what I would classify as a simulation game, and as far as I can tell doesn't involve puzzles or other game mechanics. The most interesting thing I found about this game is the custom controllers, it seemed like they had tried to incorporate the overall style of the game into how the controller worked. 
