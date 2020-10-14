@@ -50,11 +50,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\TimeMachine.cs" />
      <Compile Include="Assets\Scripts\EnemyScript.cs" />
+     <Compile Include="Assets\Scripts\PickUp.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\ProjectileScript.cs" />
-     <Compile Include="Assets\Scripts\PickUp.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>S:/GameProjects/TimeWarp/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
